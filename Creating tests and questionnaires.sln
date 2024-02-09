@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Creating tests and questionnaires", "Creating tests and questionnaires\Creating tests and questionnaires.csproj", "{45FA4072-A128-454E-8AE2-61E2C5C492FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45FA4072-A128-454E-8AE2-61E2C5C492FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45FA4072-A128-454E-8AE2-61E2C5C492FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45FA4072-A128-454E-8AE2-61E2C5C492FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45FA4072-A128-454E-8AE2-61E2C5C492FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEC594C8-754D-4432-968E-65D24CBBAF5E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\Creating tests and questionnaires\Creating tests and questionnaires\bin\Debug\net6.0\Creating tests and questionnaires.exe
+C:\Users\PC\source\repos\Creating tests and questionnaires\Creating tests and questionnaires\bin\Debug\net6.0\Creating tests and questionnaires.deps.json
+C:\Users\PC\source\repos\Creating tests and questionnaires\Creating tests and questionnaires\bin\Debug\net6.0\Creating tests and questionnaires.runtimeconfig.json
+C:\Users\PC\source\repos\Creating tests and questionnaires\Creating tests and questionnaires\bin\Debug\net6.0\Creating tests and questionnaires.dll
+C:\Users\PC\source\repos\Creating tests and questionnaires\Creating tests and questionnaires\bin\Debug\net6.0\Creating tests and questionnaires.pdb
+C:\Users\PC\source\repos\Creating tests and questionnaires\Creating tests and questionnaires\obj\Debug\net6.0\Creating tests and questionnaires.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Creating tests and questionnaires\Creating tests and questionnaires\obj\Debug\net6.0\Creating tests and questionnaires.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Creating tests and questionnaires\Creating tests and questionnaires\obj\Debug\net6.0\Creating tests and questionnaires.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Creating tests and questionnaires\Creating tests and questionnaires\obj\Debug\net6.0\Creating tests and questionnaires.AssemblyInfo.cs
+C:\Users\PC\source\repos\Creating tests and questionnaires\Creating tests and questionnaires\obj\Debug\net6.0\Creating tests and questionnaires.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Creating tests and questionnaires\Creating tests and questionnaires\obj\Debug\net6.0\Creating tests and questionnaires.dll
+C:\Users\PC\source\repos\Creating tests and questionnaires\Creating tests and questionnaires\obj\Debug\net6.0\refint\Creating tests and questionnaires.dll
+C:\Users\PC\source\repos\Creating tests and questionnaires\Creating tests and questionnaires\obj\Debug\net6.0\Creating tests and questionnaires.pdb
+C:\Users\PC\source\repos\Creating tests and questionnaires\Creating tests and questionnaires\obj\Debug\net6.0\Creating tests and questionnaires.genruntimeconfig.cache
+C:\Users\PC\source\repos\Creating tests and questionnaires\Creating tests and questionnaires\obj\Debug\net6.0\ref\Creating tests and questionnaires.dll
